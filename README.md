@@ -1,4 +1,5 @@
 # Lab-1 Git Repository Seed
+Emma-Ido Oluwaseyi Ukpong
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
